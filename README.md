@@ -20,7 +20,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code">
+  <img src="./assets/vscode.svg" alt="VS Code">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-222222?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
