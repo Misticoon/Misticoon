@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Java-B07219?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&labelColor=F2C811&color=F2C811" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel">
+  <img src="./assets/powerbi.svg" alt="Power BI">
+  <img src="./assets/excel.svg" alt="Excel">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
