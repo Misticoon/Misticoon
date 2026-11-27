@@ -27,12 +27,10 @@
 
 ---
 
-<p align="center">
-  <a href="https://win98.si/"><img src="./assets/win98.png" height="48" alt="Windows 98"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://winxp.si/"><img src="./assets/winxp.png" height="48" alt="Windows XP"></a>
-  <br>
-  <sub><a href="https://win98.si/">Windows 98</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://winxp.si/">Windows XP</a></sub>
-</p>
-
 <p align="center"><sub>またね。</sub></p>
+
+<p align="center">
+  <a href="https://win98.si/" title="Windows 98"><img src="./assets/win98.png" height="40" alt="Windows 98"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://winxp.si/" title="Windows XP"><img src="./assets/winxp.png" height="40" alt="Windows XP"></a>
+</p>
